@@ -1,0 +1,7 @@
+
+class State:
+        userObject = None
+
+
+
+
